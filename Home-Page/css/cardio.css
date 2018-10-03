@@ -124,7 +124,7 @@ header {
   -moz-filter: blur(-1px);
   -o-filter: blur(-1px);
   -ms-filter: blur(-1px);
-  filter: blur(0.5px);
+  filter: blur(0.7px);
 }
 
 
@@ -201,7 +201,7 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	color: #bbb;
 }
 .navbar-nav > li > a{
-	color:#000000;
+	color:#ffffff;
 }
 .icon-bar {
 	background: #bbb;
