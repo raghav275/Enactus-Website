@@ -527,6 +527,7 @@ section {
 }
 
 .service .description {
+    font-size: 95%;
 	width: 80%;
 	margin: 0 auto;
 	opacity: 0;
