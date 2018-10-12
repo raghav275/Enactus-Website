@@ -536,11 +536,8 @@ section {
 }
 
 .service .description {
-	width: 80%;
-	height: auto;
+	width:90%;
 	margin: 0 auto;
-	
-	
 }
 
 .team {
