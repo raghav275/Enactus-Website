@@ -124,9 +124,8 @@ header {
   -moz-filter: blur(-1px);
   -o-filter: blur(-1px);
   -ms-filter: blur(-1px);
-  filter: blur(0.7px);
+  filter: blur(0px);
 }
-
 
 header .table {
 	display: table;
